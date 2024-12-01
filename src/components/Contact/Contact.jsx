@@ -1,4 +1,5 @@
 import React from 'react'
+//creating the contact  js file
 
 export default function Contact() {
     return (
@@ -60,7 +61,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    +44 1234567890
+                                    8934856824
                                 </div>
                             </div>
 
@@ -103,7 +104,7 @@ export default function Contact() {
 
                             <div className="flex flex-col mt-2">
                                 <label for="email" className="hidden">
-                                    Email
+                                    Email :
                                 </label>
                                 <input
                                     type="email"
