@@ -10,6 +10,8 @@ function GetStarted() {
         <li>Connect your data sources</li>
         <li>Start exploring insights</li>
       </ol>
+
+      
       <button className="primary-button">Sign Up Now</button>
     </section>
   );
